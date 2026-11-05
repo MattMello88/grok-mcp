@@ -1,0 +1,4 @@
+xai-sdk>=1.21
+mcp>=2.3,<3
+python-dotenv>=1.0
+requests>=2.31
